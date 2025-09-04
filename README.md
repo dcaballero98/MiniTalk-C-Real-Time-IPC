@@ -39,7 +39,7 @@ Este proyecto **demuestra habilidades críticas para roles de desarrollo de sist
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/minitalk.git
+git clone https://github.com/dcaballero98/minitalk.git
 cd minitalk
 ```
 
