@@ -1,6 +1,6 @@
 # MiniTalk-C-Real-Time-IPC – Comunicación Interprocesos en C
 
-![MiniTalk Banner](./assets/minitalk-banner.png)
+![MiniTalk Banner](./assets/minitalk-banner.webp)
 
 ## Descripción del Proyecto
 
